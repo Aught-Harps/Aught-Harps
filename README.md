@@ -97,7 +97,7 @@ Worked on:
 ### PCB & Circuit Design
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/altium-designer-1.svg" width="45" height="45"/>
+  <img src="https://worldvectorlogo.com/logo/altium.svg" width="45" height="45"/>
 </p>
 
 - Altium Designer  
