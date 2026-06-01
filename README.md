@@ -41,20 +41,22 @@ I am passionate about **embedded systems, robotics, PCB design, and hardware dev
 ### ⚙️ Rover Electronics Development
 Worked on:
 
-#### 🔋 Power Distribution Board (PDB)
-- 24V battery power architecture
-- 12V and 5V regulated rails
-- Reverse polarity and overvoltage protection
+#### 🔋 Custom Rover PCB Stack Development (Mars Rover Manipal)
+- Designed a modular rover PCB stack to improve subsystem organization and maintainability.
+- Designed a **4-layer motherboard** with dedicated power and ground planes for reliable routing and distribution.
+- Architected power-signal separation to improve signal integrity and reduce electrical interference.
+- Developed a backward-compatible modular architecture supporting both legacy and new rover systems.
+- Improved debugging and serviceability using status LEDs and simplified board-level design.
+- Integrated power regulation, voltage protection ICs, and digital isolators to improve system robustness.
 
 #### 🧠 Embedded Systems
 - STM32 Bare Metal Programming
 - ESP32 Firmware Development
 - Sensor Interfacing
-- UART / SPI / I2C Communication
+- UART / SPI / I2C / CAN Communication
 - Hardware Debugging
 
 #### 📡 Communication Systems
-- LoRa Communication
 - LAN to UART Modules
 - Rover Telemetry Systems
 
