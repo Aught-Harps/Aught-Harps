@@ -1,5 +1,5 @@
-# Hi, I'm Harsh Gupta 👋
+
 
 div align="center">
-Hi, I'm [Your Name] 👋
+# Hi, I'm Harsh Gupta 👋
 Electronics and Communication Engineering student | Electronics Head @ Mars Rover Manipal  | Embedded Systems and Robotics Enthusiast
