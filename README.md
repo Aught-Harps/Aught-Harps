@@ -117,7 +117,11 @@ Worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45"/>
 </p>
 
-- LTSpice  
+- Altium Designer
+- EasyEDA
+- KiCAD
+- Keil Uvision
+- LTSpice 
 - Keil uVision  
 - VS Code  
 - Git & GitHub  
