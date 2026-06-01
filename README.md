@@ -34,8 +34,9 @@ I am passionate about **embedded systems, robotics, PCB design, and hardware dev
 - Mentoring juniors in **electronics, PCB design, and embedded systems**.
 
 ### 🏅 Mars Rover Manipal Achievements
-- 🥇 **1st Place — International Rover Challenge (IRC 2025)**
+- 🏆 **1st Place — International Rover Challenge (IRC 2025)**
 - 🌍 **Top 10 — European Rover Challenge (ERC)**
+- 🌟 **Top 5 - International Rover Design Challenge (IRDC 2025)**
 
 ### ⚙️ Rover Electronics Development
 Worked on:
