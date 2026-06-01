@@ -151,7 +151,7 @@ Worked on:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/harsh-gupta-339061223" target="_blank">
+  <a href="www.linkedin.com/in/harsh-gupta-339061223/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 </p>
