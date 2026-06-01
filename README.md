@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ202bnAza3dubWxtbzRqZzV3OHJ2YmpnM2h1bW1hYmpwcDFwaHExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" />
+<img width="100%" src=" Y2lkPTc5MGI3NjExbHNxNGk2MGRkZDR6ZHdyYTRxdTljODlzM3Jnc3Z6MHE4azFndWg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" />
 <!-- https://wallpapercave.com/wp/wp2757874.gif  -->
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 
