@@ -1,6 +1,6 @@
 
-<img width="100%" src="https://wallpapercave.com/wp/wp2757874.gif" />
-
+<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ202bnAza3dubWxtbzRqZzV3OHJ2YmpnM2h1bW1hYmpwcDFwaHExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" />
+<!-- https://wallpapercave.com/wp/wp2757874.gif  -->
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 
 <h3 align="center">
