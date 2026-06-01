@@ -8,7 +8,7 @@ Electronics & Communication Engineering Student | Head of Electronics at Mars Ro
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aught-HarpsE&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -149,7 +149,7 @@ Worked on:
   </a>
 </p>
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** Harshgupta150106@gmail.com
 
 ---
 
