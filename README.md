@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 
 <h3 align="center">
-Electronics & Communication Engineering Student | Head of Electronics at Mars Rover Manipal | Embedded Systems & PCB Design Enthusiast
+Electronics & Communication Engineering Student | Ex- Head of Electronics at Mars Rover Manipal | Embedded Systems & PCB Design Enthusiast
 </h3>
 
 <p align="center">
